@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bjc-codelouisville
+- 👀 I’m interested in networking, virtualization, cooking, database management...
+- 🌱 I’m currently learning App Dev with C# through Code:Louisville (https://code-you.org) and plan to continue on to learn Web Dev with JavaScript
+- ⚡ Fun fact: I'm not a developer, yet... Any repositories here are related to Code:Louisville
